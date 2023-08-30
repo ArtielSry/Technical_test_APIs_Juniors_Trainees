@@ -11,4 +11,4 @@ Project initialized without using vite or npm create app.
 
 Two hooks have been used: useState and useEffect.
 
-![img](https://github.com/ArtielSry/Technical_test_APIs_Juniors_Trainees/assets/113340763/c540fd53-dc1f-4ab9-a03a-502c7c7ec6e5)
+![161shots_so](https://github.com/ArtielSry/Technical_test_APIs_Juniors_Trainees/assets/113340763/ee10369f-79db-4334-abca-c7225c6179c2)
