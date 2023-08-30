@@ -1,13 +1,15 @@
 # Technical_test_APIs_Juniors_Trainees
 Technical test with two APIs, for juniors and trainees.
 
-Fetch a random cat fact and display a picture of a cat with the first word of the fact.
+Fetch a random cat 😼 fact and display a picture of a cat 😼 with the first word of the fact.
 
 APIs:
-Facts Random: https://catfact.ninja/fact
-Imagen random: https://cataas.com/cat/says/hello
+- Facts Random: https://catfact.ninja/fact
+- Imagen random: https://cataas.com/cat/says/hello
 
 Project initialized without using vite or npm create app.
+
+Download ▶️ npm install ▶️ npm run dev
 
 Two hooks have been used: useState and useEffect.
 
