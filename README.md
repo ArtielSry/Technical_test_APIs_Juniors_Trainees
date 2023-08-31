@@ -9,7 +9,7 @@ APIs:
 
 Project initialized without using vite or npm create app.
 
-Download ▶️ npm install ▶️ npm run dev
+Download ▶️ npm install ▶️ npm run dev ⏭️
 
 Two hooks have been used: useState and useEffect.
 
